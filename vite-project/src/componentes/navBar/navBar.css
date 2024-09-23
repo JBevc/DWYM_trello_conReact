@@ -1,0 +1,11 @@
+nav.navbar {
+  padding: 1rem;
+}
+.navbar-item {
+  margin: 2%;
+}
+
+a.navbarButton {
+  background-color: rgb(64, 149, 182);
+  color: aliceblue;
+}
