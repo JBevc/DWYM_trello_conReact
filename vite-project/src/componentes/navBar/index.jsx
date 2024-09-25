@@ -24,7 +24,14 @@ export function NavBar() {
             <span aria-hidden="true"></span>
           </a>
         </div>
-
+        <div id="navbarBasicExample" class="navbar-menu">
+          <div class="navbar-start">
+            <a class="navbar-item">Workspaces</a>
+            <a class="navbar-item">Recent</a>
+            <a class="navbar-item">Starred</a>
+            <a class="navbar-item">Templates</a>
+          </div>
+        </div>
         <div className="navbar-end">
           <div className="navbar-item">
             <div className="buttons are-medium">

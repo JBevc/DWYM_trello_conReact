@@ -1,0 +1,14 @@
+.card {
+  padding: 1rem;
+  margin-top: 1rem;
+  transition: 0.5s;
+}
+
+.tag {
+  width: 70px;
+  max-height: 10px;
+}
+
+.title {
+  margin-top: 0.5rem;
+}
